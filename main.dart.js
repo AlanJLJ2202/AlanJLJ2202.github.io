@@ -65249,7 +65249,7 @@ return A.aey(n,A.ua(A.eg(A.b([A.as(o,A.eg(A.b([A.as(o,p.kN("Nombre Completo",350
 kN(a,b,c){var s=null,r=A.as(s,A.dz(a,s,s,s,A.cQ(s,s,B.A,s,s,s,s,s,s,s,s,18,s,B.b8,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,new A.X(10,0,0,0),s,s),q=A.j4(B.A,1)
 return A.eg(A.b([r,A.as(s,A.ajM(c,A.aih(s,s,s,new A.X(0,0,0,10),s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),!1,s,1,s,B.eK,B.eJ),s,new A.cl(s,s,q,B.lG,s,s,B.X),35,s,new A.X(10,0,10,0),b)],t.F),B.c9,B.T,B.H)},
 a5d(a){var s=this,r=null,q=t.FT,p=t.F
-return A.as(r,A.ld(A.b([A.as(r,A.eg(A.b([A.dz("Hipertensi\xf3n",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9e(s),s.d)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("Diabetes",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9f(s),s.e)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("Art/Ost",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9g(s),s.f)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("E. Pulmonar",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9h(s),s.r)],p),B.R,B.T,B.H),r,r,r,r,r,87.5)],p),B.R,B.et,B.H),r,r,50,new A.X(0,15,0,0),r,a)},
+return A.as(r,A.ld(A.b([A.as(r,A.eg(A.b([A.dz("Hipertensi\xf3n",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9e(s),s.d)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("Diabetes",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9f(s),s.e)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("Art/Ost",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9g(s),s.f)],p),B.R,B.T,B.H),r,r,r,r,r,87.5),A.as(r,A.eg(A.b([A.dz("E. Pulmonarr",r,r,r,A.cQ(r,r,r,r,r,r,r,r,r,r,r,r,r,B.cT,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.RK(new A.ca(B.A,q),new A.a9h(s),s.r)],p),B.R,B.T,B.H),r,r,r,r,r,87.5)],p),B.R,B.et,B.H),r,r,50,new A.X(0,15,0,0),r,a)},
 oi(a,b,c,d){var s=null
 return A.as(s,A.U8(A.dz(a,s,s,s,s,s,s),d,A.u4(s,s,new A.ca(b,t.GJ),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),s,s,38,new A.X(0,15,0,0),s,100)},
 uO(a){var s=0,r=A.a0(t.z),q=this,p,o,n,m,l
@@ -65265,7 +65265,7 @@ p.a="POST"
 m=A
 l=A
 s=2
-return A.a5(o.BD(0,"https://phisiot.000webhostapp.com/registro.php",null,n,null,null,p,null,t.z),$async$uO)
+return A.a5(o.BD(0,"https://www.phisio-t.com/registro_paciente.php",null,n,null,null,p,null,t.z),$async$uO)
 case 2:m.lR(l.f(c.a))
 A.va(B.cQ,new A.a9i(),t.P)
 return A.Z(null,r)}})
